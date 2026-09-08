@@ -4,6 +4,6 @@ date: 2025-02-02
 
 
 ---
-University of Canterbury received the honor to host NZ hydrogen symposium in 2025. As n active member of Sustainable enegry research group at UC, I undertook the responsibility to manage and plan the event at the University. Me and my collegues travelled across New Zealand for funding acquisition, sponsorship for the event, marketing, and successfully hosted the for more than 200 national/international conference attendees. Alongside researchers from 20 nations across the globe, there was a significant presence of industrial and governement 
-stakeholders in the conference, discussion spanning from the dry year issue of New Zealand to sustainable fuel export to Europe. 
+The University of Canterbury had the honour of hosting the New Zealand Hydrogen Symposium in 2025. As an active member of the Sustainable Energy Research Group (SERG) at UC, I took responsibility for coordinating and managing the event at the University. Working closely with my colleagues, I travelled across New Zealand to support funding acquisition, engage sponsors, promote the event, and coordinate its successful delivery. The symposium ultimately brought together more than 200 national and international attendees. The event featured researchers from over 20 countries, alongside strong representation from industry and government stakeholders. The discussions covered a broad range of hydrogen and energy-transition challenges and opportunities, including New Zealand’s dry-year electricity challenge, the role of hydrogen in decarbonising hard-to-abate sectors, and the potential for sustainable fuel production and export to international markets, including Europe.
+ 
 <!--more-->
